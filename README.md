@@ -1,4 +1,9 @@
-QRCode
+# pds_tracking_system
+Public distribution system tracking
+
+https://www.nayuki.io/page/qr-code-generator-library
+
+QRCode Generator
 ======
 
 A simple library for generating [QR codes](https://en.wikipedia.org/wiki/QR_code) in C,
@@ -9,8 +14,6 @@ optimized for processing and memory constrained systems.
 - Stack-based (no heap necessary; but you can use heap if you want)
 - Low-memory foot print (relatively)
 - Compile-time stripping of unecessary logic
-- MIT License; do with this as you please
-
 
 Installing
 ----------
@@ -663,15 +666,6 @@ Data Capacities
 </table>
 
 
-Special Thanks
---------------
-
 A HUGE thank you to [nayuki](https://www.nayuki.io/) for the 
 [QR code C++ library](https://github.com/nayuki/QR-Code-generator/tree/master/cpp)
 which was critical in development of this library.
-
-
-License
--------
-
-MIT License.
