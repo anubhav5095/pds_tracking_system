@@ -3,7 +3,7 @@ Public distribution system tracking
 
 https://www.nayuki.io/page/qr-code-generator-library
 
-QRCode
+QRCode Generator
 ======
 
 A simple library for generating [QR codes](https://en.wikipedia.org/wiki/QR_code) in C,
@@ -14,8 +14,6 @@ optimized for processing and memory constrained systems.
 - Stack-based (no heap necessary; but you can use heap if you want)
 - Low-memory foot print (relatively)
 - Compile-time stripping of unecessary logic
-- MIT License; do with this as you please
-
 
 Installing
 ----------
