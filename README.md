@@ -1,5 +1,7 @@
 # pds_tracking_system
-Public distribution system tracking
+Public distribution system tracking for ensuring the transparency and controlling corruption free delivery of LPG cylinders to the customers using IoT and Cloud. The whole system is replicated using arduino nano and QR code Scanner.
+
+![Our Team](snaps/01.jpeg?raw=true "team")
 
 https://www.nayuki.io/page/qr-code-generator-library
 
